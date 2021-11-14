@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.11.14)  14 NOV 2021 20:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.11.14)  14 NOV 2021 20:56
 entering extended mode
 **./conference_101719.tex
 (conference_101719.tex
@@ -300,65 +300,67 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 57.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Calculating math sizes for size <11> on input line 57.
- [1{/home/pranay/.miktex/texmfs/data/pdftex/config/pdftex.map}
+
+(sections/abstract.tex) (sections/introduction.tex) [1{/home/pranay/.miktex/tex
+mfs/data/pdftex/config/pdftex.map}
 
 
 ]
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 1
-27.
+24.
 
 (/home/pranay/.miktex/texmfs/install/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 132--135
+Underfull \hbox (badness 10000) in paragraph at lines 129--132
 \OT1/ptm/m/n/10 Use []\OT1/pcr/m/n/10 {align} \OT1/ptm/m/n/10 or []\OT1/pcr/m/n
 /10 {IEEEeqnarray} \OT1/ptm/m/n/10 instead. The
  []
 
 
-Underfull \hbox (badness 1454) in paragraph at lines 166--167
+Underfull \hbox (badness 1454) in paragraph at lines 163--164
 []\OT1/ptm/m/n/10 In American English, commas, semicolons, periods,
  []
 
 
-Underfull \hbox (badness 1609) in paragraph at lines 166--167
+Underfull \hbox (badness 1609) in paragraph at lines 163--164
 \OT1/ptm/m/n/10 question and exclamation marks are located within
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--169
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
 []\OT1/ptm/m/n/10 Do not use the word ``essentially'' to mean
  []
 
 
-Underfull \hbox (badness 4181) in paragraph at lines 174--175
+Underfull \hbox (badness 4181) in paragraph at lines 171--172
 []\OT1/ptm/m/n/10 The abbreviation ``i.e.'' means ``that is'', and the
  []
 
 <fig1.png, id=12, 82.1469pt x 71.5473pt>
 File: fig1.png Graphic file (type png)
 <use fig1.png>
-Package pdftex.def Info: fig1.png  used on input line 232.
+Package pdftex.def Info: fig1.png  used on input line 229.
 (pdftex.def)             Requested size: 82.14668pt x 71.5471pt.
 LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 2
-43.
+40.
 (/home/pranay/.miktex/texmfs/install/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 243.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 240.
 
-Underfull \hbox (badness 1502) in paragraph at lines 237--246
+Underfull \hbox (badness 1502) in paragraph at lines 234--243
 \OT1/ptm/m/n/10 labels. Use words rather than symbols or abbreviations
  []
 
 [2]
-Underfull \hbox (badness 1845) in paragraph at lines 282--283
+Underfull \hbox (badness 1845) in paragraph at lines 279--280
 []\OT1/ptm/m/n/8 M. Young, The Technical Writer's Handbook. Mill Valley, CA:
  []
 
 
-Underfull \hbox (badness 5924) in paragraph at lines 286--287
+Underfull \hbox (badness 5924) in paragraph at lines 283--284
 \OT1/ptm/m/n/10 IEEE conference templates contain guidance text for
  []
 
@@ -375,10 +377,10 @@ Before submitting the final camera ready copy, remember to:
 
 [3 <./fig1.png (PNG copy)>] (conference_101719.aux) ) 
 Here is how much of TeX's memory you used:
- 4067 strings out of 480844
- 59951 string characters out of 2903615
- 371340 words of memory out of 3000000
- 21655 multiletter control sequences out of 15000+600000
+ 4079 strings out of 480844
+ 60089 string characters out of 2903615
+ 371322 words of memory out of 3000000
+ 21660 multiletter control sequences out of 15000+600000
  454535 words of font info for 128 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
  57i,11n,66p,594b,303s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -394,7 +396,7 @@ e1/urw/courier/ucrr8a.pfb></home/pranay/.miktex/texmfs/install/fonts/type1/urw/
 times/utmb8a.pfb></home/pranay/.miktex/texmfs/install/fonts/type1/urw/times/utm
 bi8a.pfb></home/pranay/.miktex/texmfs/install/fonts/type1/urw/times/utmr8a.pfb>
 </home/pranay/.miktex/texmfs/install/fonts/type1/urw/times/utmri8a.pfb>
-Output written on conference_101719.pdf (3 pages, 142819 bytes).
+Output written on conference_101719.pdf (3 pages, 142832 bytes).
 PDF statistics:
  69 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
